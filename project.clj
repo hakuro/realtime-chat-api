@@ -2,6 +2,7 @@
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :dependencies [[org.clojure/clojure "1.6.0"]
+                 [org.clojure/tools.logging "0.2.6"]
                  [compojure "1.1.8"]
                  [aleph "0.3.3"]
                  [clojure-msgpack "0.1.0-SNAPSHOT"]]
